@@ -1,3 +1,4 @@
 *.drawio.*
 *.o
 *.as
+*.exe
