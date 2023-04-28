@@ -10,10 +10,6 @@ using namespace std;
 int main()
 {
     cout << "Hello world" << endl;
-    _client monClient; 
-    monClient.nom = "Nennouche";
-    monClient.prenom = "Mohamed";
-
-    cout << monClient.prenom << monClient.nom << endl;
+    
     return 0;
 }
